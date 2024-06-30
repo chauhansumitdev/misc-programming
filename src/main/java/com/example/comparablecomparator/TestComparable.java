@@ -1,7 +1,6 @@
 package com.example.comparablecomparator;
 
 import java.util.*;
-import java.util.stream.Stream;
 
 public class TestComparable {
     public static void main(String[] args) {
@@ -14,7 +13,7 @@ public class TestComparable {
 
         System.out.println(list);
 
-        Stream
+
     }
 }
 
